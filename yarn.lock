@@ -399,6 +399,10 @@ chalk@^1.1.0:
     strip-ansi "^3.0.0"
     supports-color "^2.0.0"
 
+cnpmpublish@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/cnpmpublish/-/cnpmpublish-1.0.1.tgz#f201f4a12f64b42707a367756487f939b3a2ab5c"
+
 core-js@^2.4.0:
   version "2.4.1"
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.4.1.tgz#4de911e667b0eae9124e34254b53aea6fc618d3e"
